@@ -1,0 +1,20 @@
+{
+    "FBSDKCoreKit": {
+        "name": "FBSDKCoreKit",
+        "type": "podspec",
+        "spec": "5.14.0",
+        "count": 1
+    },
+    "FBSDKLoginKit": {
+        "name": "FBSDKLoginKit",
+        "type": "podspec",
+        "spec": "5.14.0",
+        "count": 1
+    },
+    "FBSDKShareKit": {
+        "name": "FBSDKShareKit",
+        "type": "podspec",
+        "spec": "5.14.0",
+        "count": 1
+    }
+}

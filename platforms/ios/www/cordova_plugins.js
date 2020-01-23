@@ -12,8 +12,8 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-  "cordova-plugin-whitelist": "1.3.4",
-  "cordova-plugin-facebook4": "6.2.0"
+  "cordova-plugin-facebook4": "6.2.0",
+  "cordova-plugin-whitelist": "1.3.4"
 };
 // BOTTOM OF METADATA
 });

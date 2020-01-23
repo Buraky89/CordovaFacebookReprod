@@ -79,6 +79,11 @@
 
     <!-- ios -->
     <platform name="ios">
+
+        <framework src="FBSDKCoreKit" type="podspec" spec="5.14.0" />
+        <framework src="FBSDKLoginKit" type="podspec" spec="5.14.0" />
+        <framework src="FBSDKShareKit" type="podspec" spec="5.14.0" />
+    
         <js-module src="www/facebook-native.js" name="FacebookConnectPlugin">
             <clobbers target="facebookConnectPlugin" />
         </js-module>
